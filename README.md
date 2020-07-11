@@ -20,8 +20,8 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
       <td width="25%" align="center">
-        <div style="margin-bottom:16px">ES6</div>
-        <img height="64px" src="https://cdn.svgporn.com/logos/es6.svg">
+        <div style="margin-bottom:16px">TypeScript</div>
+        <img height="64px" src="https://cdn.svgporn.com/logos/typescript-icon.svg">
       </td>
       <td width="25%" align="center">
         <div style="margin-bottom:16px">React</div>
@@ -52,10 +52,6 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/sass.svg">
       </td>
       <td width="25%" align="center">
-        <div style="margin-bottom:16px">Node.js</div>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
-      </td>
-      <td width="25%" align="center">
         <div style="margin-bottom:16px">GatsbyJS</div>
         <img height="64px" src="https://cdn.svgporn.com/logos/gatsby.svg">
       </td>
@@ -63,8 +59,16 @@
         <div style="margin-bottom:16px">𝗡𝗲𝘁𝗹𝗶𝗳𝘆</div>
         <img height="64px" src="https://cdn.svgporn.com/logos/netlify.svg">
       </td>
+      <td width="25%" align="center">
+        <div style="margin-bottom:16px">Jamstack</div>
+        <img height="64px" src="https://cdn.svgporn.com/logos/jamstack.svg">
+      </td>
     </tr>
     <tr valign="top">
+      <td width="25%" align="center">
+        <div style="margin-bottom:16px">Node.js</div>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs-icon.svg">
+      </td>
       <td width="25%" align="center">
         <div style="margin-bottom:16px">Electron</div>
         <img height="64px" src="https://cdn.svgporn.com/logos/electron.svg">
