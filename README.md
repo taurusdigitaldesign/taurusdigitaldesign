@@ -25,7 +25,7 @@
       </td>
       <td width="25%" align="center">
         <span>React</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/React.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
     </tr>
     <tr valign="top">
