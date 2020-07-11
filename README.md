@@ -6,7 +6,7 @@
 
 :vulcan_salute: I put mostly of my focus on web development with JavaScript, and I'm a React nerd.
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## My Tech Stack
 
 <table>
   <tbody>
@@ -73,6 +73,6 @@
   </tbody>
 </table>
 
-## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
+## Visitors
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=taurusdigitaldesign.taurusdigitaldesign)
