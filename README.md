@@ -77,6 +77,3 @@
   </tbody>
 </table>
 
-## Visitors
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=taurusdigitaldesign.taurusdigitaldesign)
